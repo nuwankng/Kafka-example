@@ -1,0 +1,5 @@
+com\example\kafkaproducer\config\KafkaProducerConfig.class
+com\example\kafkaproducer\config\KafkaTopicConfig.class
+com\example\kafkaproducer\controller\KakfaSend.class
+com\example\kafkaproducer\service\KafkaSenderExample.class
+com\example\kafkaproducer\KafkaProducerApplication.class
